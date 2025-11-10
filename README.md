@@ -21,7 +21,5 @@ It also includes a simple **Jest testing setup** for automated test execution.
 - ✅ Easy-to-understand structure
 - ✅ Ideal for CI/CD learning and experimentation
 
----
 
-## 🗂️ Project Structure
 
